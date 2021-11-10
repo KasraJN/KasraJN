@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KasraJN
-- 👀 I'm interested in Java and Node.js
+- 👀 I'm interested in Java and Kotlin and Node.js
 - ✌  I'm 15 years old
 
 <!---
